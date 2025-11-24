@@ -1,4 +1,12 @@
-<h1><center>Hey there, I`m millkun</center></h1>
+<style>
+  .title {
+    position: absolute;
+    left: 50%;
+    top: 0;
+  }
+</style>
+
+<h1 class='title'>Hey there, I`m millkun</h1>
 
 <!--
 **millkun/millkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
