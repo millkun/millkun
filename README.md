@@ -1,5 +1,5 @@
 <h1>Hey there, I`m millkun</h1>
-Somethink cool is coming up here soon...
+Something cool is coming up here soon...
 
 <!--
 **millkun/millkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
