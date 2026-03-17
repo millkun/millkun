@@ -1,5 +1,9 @@
 <h1>Hey there, I`m millkun</h1>
-Something cool is coming up here soon...
+So far all the awesome stuff is happening in private repos. I`m really hoping the projects will go public soon.
+
+About: Backend developer
+Interests: Algorithms, High-Load Systems
+Website: https://millkun.ru
 
 <!--
 **millkun/millkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
