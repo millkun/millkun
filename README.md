@@ -1,9 +1,13 @@
-<h1>Hey there, I`m millkun</h1>
-So far all the awesome stuff is happening in private repos. I`m really hoping the projects will go public soon.
+<h1 align="center">Hey there, I'm millkun</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=F896D8&center=true&vCenter=true&width=435&lines=millkun;Docker;MySQL;PostgreSQL;Microsoft+SQL+Server;Redis;Drogon;Arduino" alt="Typing SVG" />
+</p>
 
-About: Backend developer
-Interests: Algorithms, High-Load Systems
-Website: https://millkun.ru
+🌱 So far all the awesome stuff is happening in **private repos**. I'm really hoping the projects will go public soon.
+
+- 💻 **Role:** `Backend Developer`
+- ⚡ **Interests:** `Algorithms`, `High-Load Systems`, `Machine Learning`
+- 🔗 **Website:** [millkun.ru](https://millkun.ru)
 
 <!--
 **millkun/millkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
