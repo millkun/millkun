@@ -3,23 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1500&color=9EF01A&center=true&vCenter=true&width=485&lines=Have+a+good+one;Docker+|+Kubernetes;MySQL+|+PostgreSQL+|+Microsoft+SQL+Server+|+Redis;Drogon+|+Arduino" alt="Typing SVG" />
 </p>
 
-🌱 So far all the awesome stuff is happening in **private repos**. I'm really hoping the projects will go public soon.
+🌱 So far all the awesome stuff is happening in **private repos**.
 
 - 💻 **Role:** `Backend Developer`
-- ⚡ **Interests:** `Algorithms`, `High-Load Systems`, `Machine Learning`
+- ⚡ **Interests:** `High-Load Systems`, `Algorithms`
 - 🔗 **Website:** [millkun.ru](https://millkun.ru)
 
 <!--
-**millkun/millkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm really hoping the projects will go public soon.
 -->
