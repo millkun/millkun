@@ -6,7 +6,7 @@
 🌱 So far all the awesome stuff is happening in **private repos**.
 
 - 💻 **Role:** `Backend Developer`
-- ⚡ **Interests:** `High-Load Systems`, `Algorithms`
+- ⚡ **Interests:** `High-Load Systems`, `Algorithms`, `Arduino`
 - 🔗 **Website:** [millkun.ru](https://millkun.ru)
 
 <!--
