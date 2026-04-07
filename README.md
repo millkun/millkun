@@ -4,4 +4,3 @@
 - 💻 **Role:** `Backend Developer`
 - ⚡ **Interests:** `High-Load Systems`, `Microservices`, `Arduino`
 - 🔗 **Website:** [millkun.ru](https://millkun.ru)
-- ! **Email me:** [email form] (https://millkun.ru/email)
